@@ -28,7 +28,7 @@ A aplicação permite gerir o stock das sapatilhas, assim como adicionar e retir
     - brapifra.phpserver;
 6. Abrir o projeto no Visual Studio;
 7. Entrar no motor de busca e meter o seguinte url:
-http://localhost:3000/SneakersCovi/Projeto/Home.html;
+http://localhost:8888/SneakersCovi/Projeto/Home.html;
 
 
 ## Repository
